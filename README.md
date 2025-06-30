@@ -2,6 +2,8 @@
 
 A Windows console application that helps monitor and optimize memory usage of running processes.
 
+Download here: https://github.com/uglyRaze/Ultima-RAMOptimizer/releases/tag/RAM
+
 ## Features
 
 - Lists all visible running processes in a selectable menu
