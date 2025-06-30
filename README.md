@@ -21,7 +21,7 @@ Download here: https://github.com/uglyRaze/Ultima-RAMOptimizer/releases/tag/RAM
 
 ## Optimization example
 
-1. No optimization
+1. No optimization (Chrome) 
    ![Screenshot 2025-06-30 233028](https://github.com/user-attachments/assets/9ba4855b-ae28-4ccc-b7e3-989f6fc64c4c)
    
 3. After optimization (~4 sec)
