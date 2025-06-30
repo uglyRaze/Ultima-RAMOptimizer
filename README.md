@@ -12,11 +12,20 @@ Download here: https://github.com/uglyRaze/Ultima-RAMOptimizer/releases/tag/RAM
 - Simple keyboard navigation (arrow keys + Enter)
 - Automatically requests admin privileges when needed
 
+
 ## Requirements
 
 - Windows 8 or later
 - Administrator privileges (will prompt automatically)
 - C++17 compatible compiler
+
+## Optimization example
+
+1. No optimization
+   ![Screenshot 2025-06-30 233028](https://github.com/user-attachments/assets/9ba4855b-ae28-4ccc-b7e3-989f6fc64c4c)
+   
+3. After optimization (~4 sec)
+   ![Screenshot 2025-06-30 233112](https://github.com/user-attachments/assets/6881222a-ff15-4999-b13a-10c3693f10ef)
 
 ## How to Use
 
